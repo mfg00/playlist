@@ -1,22 +1,25 @@
-# Hello Website (blank)
+# YENİ SİTEM (MFG)
 
-This is a basic static HTML starter project you can build on however you like. No need to save. While you develop your site, your changes will happen 🪄 immediately in the preview window. You can upload assets like images or audio in `assets` to the left. The rest is up to you and your imagination.
+HTML CSS KULLANARAK YAPILAN BİR DİSTE
 
-## What's in this project?
+## PROJE KONUSU
 
-← `README.md`: That's this file, where you can tell people what your cool website does and how you built it.
+← `KENDİ DİNLEDİĞİM OYNATMA LİSTELERİNİ WEB SİTESİNE DÖNÜŞTÜRDÜM
 
-← `index.html`: This is the main HTML page for your site.
+← `HTML SAYFASİ İNDEX.HTML
 
-← `style.css`: CSS files add styling rules to your content.
+← `CSS SAYFASI STYLE.CSS
 
-← `script.js`: If you're feeling fancy you can add interactivity to your site with JavaScript.
+← `JAVASCRİP İÇİN .JAVASCRİPT.JS
 
-![Glitch](https://cdn.glitch.com/a9975ea6-8949-4bab-addb-8a95021dc2da%2FLogo_Color.svg?v=1602781328576)
+![MFG](https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_RGB_White.png)
 
-## You built this with Glitch!
+## 
 
-[Glitch](https://glitch.com) is a friendly community where millions of people come together to build web apps and websites.
+[SPOTİFY](https://open.spotify.com/user/21l7qaxyis7o5kf27sm4do4ki?si=95a70cff9c85489c) 
 
-- Need more help? [Check out our Help Center](https://help.glitch.com/) for answers to any common questions.
-- Ready to make it official? [Become a paid Glitch member](https://glitch.com/pricing) to boost your app with private sharing, more storage and memory, domains and more.
+
+##THANK YOU FOR YOUR HELP @ANGELA.XX
+
+Copyright Mfg&ANGELA
+
